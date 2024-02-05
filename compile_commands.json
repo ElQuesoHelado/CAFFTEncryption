@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/josealva/Projects/Discretas 2/CelularAutomata/out/Debug",
+  "command": "/usr/lib64/ccache/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DKFR_NO_DFT -I/home/josealva/Software/kfr/include -isystem /usr/include/opencv4 -isystem /usr/include/ImageMagick-7 -isystem /home/josealva/Software/allthesmallthings/i/include -g -std=gnu++23 -fopenmp -DMAGICKCORE_HDRI_ENABLE=1 -DMAGICKCORE_QUANTUM_DEPTH=16 -DMAGICKCORE_CHANNEL_MASK_DEPTH=32 -DKFR_DEBUG -Wno-ignored-qualifiers -Wno-psabi -mno-sse3 -msse4.2 -mavx2 -mfma -o CMakeFiles/CelularAutomata.dir/main.cpp.o -c \"/home/josealva/Projects/Discretas 2/CelularAutomata/main.cpp\"",
+  "file": "/home/josealva/Projects/Discretas 2/CelularAutomata/main.cpp",
+  "output": "CMakeFiles/CelularAutomata.dir/main.cpp.o"
+},
+{
+  "directory": "/home/josealva/Projects/Discretas 2/CelularAutomata/out/Debug",
+  "command": "/usr/lib64/ccache/c++ -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DKFR_NO_DFT -I/home/josealva/Software/kfr/include -isystem /usr/include/opencv4 -isystem /usr/include/ImageMagick-7 -isystem /home/josealva/Software/allthesmallthings/i/include -g -std=gnu++23 -fopenmp -DMAGICKCORE_HDRI_ENABLE=1 -DMAGICKCORE_QUANTUM_DEPTH=16 -DMAGICKCORE_CHANNEL_MASK_DEPTH=32 -DKFR_DEBUG -Wno-ignored-qualifiers -Wno-psabi -mno-sse3 -msse4.2 -mavx2 -mfma -o CMakeFiles/CelularAutomata.dir/encryption.cc.o -c \"/home/josealva/Projects/Discretas 2/CelularAutomata/encryption.cc\"",
+  "file": "/home/josealva/Projects/Discretas 2/CelularAutomata/encryption.cc",
+  "output": "CMakeFiles/CelularAutomata.dir/encryption.cc.o"
+},
+{
+  "directory": "/home/josealva/Projects/Discretas 2/CelularAutomata/out/Debug/kfr-bin",
+  "command": "/usr/lib64/ccache/c++ -DKFR_NO_DFT -I/home/josealva/Software/kfr/include -g -std=gnu++17 -DKFR_DEBUG -Wno-ignored-qualifiers -Wno-psabi -mno-sse3 -msse4.2 -mavx2 -mfma -o CMakeFiles/kfr_io.dir/include/kfr/io/impl/audiofile-impl.cpp.o -c /home/josealva/Software/kfr/include/kfr/io/impl/audiofile-impl.cpp",
+  "file": "/home/josealva/Software/kfr/include/kfr/io/impl/audiofile-impl.cpp",
+  "output": "kfr-bin/CMakeFiles/kfr_io.dir/include/kfr/io/impl/audiofile-impl.cpp.o"
+},
+{
+  "directory": "/home/josealva/Projects/Discretas 2/CelularAutomata/out/Debug/kfr-bin",
+  "command": "/usr/lib64/ccache/c++ -DKFR_NO_DFT -I/home/josealva/Software/kfr/include -g -std=gnu++17 -mno-sse3 -DCMT_FORCE_GENERIC_CPU -DKFR_DEBUG -Wno-ignored-qualifiers -Wno-psabi -o CMakeFiles/detect_cpu.dir/cmake/detect_cpu.cpp.o -c /home/josealva/Software/kfr/cmake/detect_cpu.cpp",
+  "file": "/home/josealva/Software/kfr/cmake/detect_cpu.cpp",
+  "output": "kfr-bin/CMakeFiles/detect_cpu.dir/cmake/detect_cpu.cpp.o"
+},
+{
+  "directory": "/home/josealva/Projects/Discretas 2/CelularAutomata/out/Debug/plotting",
+  "command": "/usr/lib64/ccache/c++  -I/usr/include/opencv4 -isystem /home/josealva/Software/allthesmallthings/i/include -g -std=gnu++23 -o CMakeFiles/lwindow.dir/window.cc.o -c \"/home/josealva/Projects/Discretas 2/CelularAutomata/plotting/window.cc\"",
+  "file": "/home/josealva/Projects/Discretas 2/CelularAutomata/plotting/window.cc",
+  "output": "plotting/CMakeFiles/lwindow.dir/window.cc.o"
+},
+{
+  "directory": "/home/josealva/Projects/Discretas 2/CelularAutomata/out/Debug/plotting/implot",
+  "command": "/usr/lib64/ccache/c++  -I/usr/include/opencv4 -isystem /home/josealva/Software/allthesmallthings/i/include -g -std=gnu++23 -o CMakeFiles/limplot.dir/implot.cpp.o -c \"/home/josealva/Projects/Discretas 2/CelularAutomata/plotting/implot/implot.cpp\"",
+  "file": "/home/josealva/Projects/Discretas 2/CelularAutomata/plotting/implot/implot.cpp",
+  "output": "plotting/implot/CMakeFiles/limplot.dir/implot.cpp.o"
+},
+{
+  "directory": "/home/josealva/Projects/Discretas 2/CelularAutomata/out/Debug/plotting/implot",
+  "command": "/usr/lib64/ccache/c++  -I/usr/include/opencv4 -isystem /home/josealva/Software/allthesmallthings/i/include -g -std=gnu++23 -o CMakeFiles/limplot.dir/implot_items.cpp.o -c \"/home/josealva/Projects/Discretas 2/CelularAutomata/plotting/implot/implot_items.cpp\"",
+  "file": "/home/josealva/Projects/Discretas 2/CelularAutomata/plotting/implot/implot_items.cpp",
+  "output": "plotting/implot/CMakeFiles/limplot.dir/implot_items.cpp.o"
+}
+]
